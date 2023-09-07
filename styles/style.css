@@ -1,0 +1,22 @@
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/* header section's styles */
+.banner{
+    padding: 174px 307px;
+    background-image: url(../images/donation1.jpg);
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 670px;
+    background-position: center;
+}
+.banner-title{
+    width: 825px;
+    color: #FFF;
+text-align: center;
+font-size: 65px;
+font-weight: 700px;
+
+}
